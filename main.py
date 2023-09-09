@@ -9,7 +9,6 @@ if __name__=="__main__":
     b=4
 
     print (add(a,b))
-    
     print (multiply(a,b))
     print (subtract(a,b))
     
